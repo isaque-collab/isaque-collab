@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Isaque Cunha!
+# 👋 Olá, eu sou o Isaque!
 
 🎓 Estudante de Engenharia de Software  
 💻 Desenvolvedor em formação  
@@ -8,7 +8,7 @@
 
 ## 🙋 Sobre mim
 
-Estudante de Engenharia de Software. Estou construindo minha base em desenvolvimento de software com foco em lógica, boas práticas e resolução de problemas reais.
+Estudante de Engenharia de Software. Pretendo atuar na área de back-end e por isso no momento estou estudando a linguagem de programação Java que, é amplamente utilizada por grandes empresas do mercado e como podem perceber todos os meus projetos são desenvolvidos nessa linguagem. Também tenho conhecimento com HTML, CSS, JavaScript e Python, gracas ao meu curso técnico em informática para internet. 
 
 Aqui no GitHub compartilho projetos, estudos e experiências que fazem parte da minha evolução na área de TI.
 
@@ -29,8 +29,8 @@ Busco minha primeira oportunidade como desenvolvedor (estágio), onde eu possa a
 
 ## 📬 Contato
 
-- 📧 E-mail: isaquecunha234@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/isaquecostadacunha](https://www.linkedin.com/in/isaquecostadacunha)
+- 📧 E-mail: isaquecunha234@gmail.com
+- 💼 LinkedIn: [[linkedin.com/in/isaquecostadacunha](https://www.linkedin.com/in/isaquecostadacunha)]
 
 ---
 
