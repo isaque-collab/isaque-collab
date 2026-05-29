@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Isaque Cunha!
 
-<!--
-**isaque-collab/isaque-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Desenvolvedor em formação  
+📍 Brasília - DF  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋 Sobre mim
+
+Estudante de Engenharia de Software. Estou construindo minha base em desenvolvimento de software com foco em lógica, boas práticas e resolução de problemas reais.
+
+Aqui no GitHub compartilho projetos, estudos e experiências que fazem parte da minha evolução na área de TI.
+
+---
+
+## 🎓 Formação
+
+- 🎓 Técnico em Informática para Internet
+- 🎓 Engenharia de Software *(em andamento)*
+
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade como desenvolvedor (estágio), onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com a equipe.
+
+---
+
+## 📬 Contato
+
+- 📧 E-mail: isaquecunha234@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/isaquecostadacunha](https://www.linkedin.com/in/isaquecostadacunha)
+
+---
+
+## 🚀 Linguagens e Tecnologias
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+---
