@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Isaque!
 🎓 Estudante de Engenharia de Software  
-💻 Desenvolvedor em formação  
+💻 Desenvolvedor Back-end 
 📍 Brasília - DF  
 ---
 ## 🙋 Sobre mim
