@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Isaque!
+# 👋 Olá, me chamo Isaque!
 🎓 Estudante de Engenharia de Software  
 💻 Desenvolvedor Back-end 
 📍 Brasília - DF  
