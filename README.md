@@ -23,7 +23,7 @@ Aqui no GitHub compartilho projetos, desafios e minha evolução como desenvolve
 
 ---
 
-## 💼 Projetos em destaque
+## Projetos em destaque
 
 ### Sistema Bancário
 Projeto desenvolvido em Java utilizando Programação Orientada a Objetos.
@@ -89,9 +89,9 @@ Busco minha primeira oportunidade como Desenvolvedor Back-end (Estágio), onde p
 
 ---
 
-## 📬 Contato
+## Contato
 
-📧 **E-mail:** isaquecunha234@gmail.com
+**E-mail:** isaquecunha234@gmail.com
 
-💼 **LinkedIn:**  
+**LinkedIn:**  
 https://www.linkedin.com/in/isaquecostadacunha
