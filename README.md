@@ -8,7 +8,7 @@ Brasília - DF
 
 ## Sobre mim
 
-Sou estudante de Engenharia de Software e apaixonado por desenvolvimento back-end. Atualmente, concentro meus estudos no ecossistema Java, buscando construir aplicações robustas, escaláveis e seguindo boas práticas de desenvolvimento.
+Sou estudante de Engenharia de Software e tenho foco em desenvolvimento back-end. Atualmente, concentro meus estudos na linguagem de programação Java, buscando construir aplicações robustas, escaláveis e seguindo boas práticas de desenvolvimento.
 
 Concluí a Maratona Java do DevDojo, onde adquiri conhecimentos desde os fundamentos da linguagem até tópicos avançados como JDBC, coleções, Streams, programação concorrente, padrões de projeto, testes com JUnit e boas práticas de programação.
 
