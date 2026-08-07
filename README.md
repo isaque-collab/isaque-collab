@@ -1,4 +1,4 @@
-# Olá, me chamo Isaque! 👋
+# Olá, me chamo Isaque!
 
 **Estudante de Engenharia de Software** na Universidade Católica de Brasília (UCB)
 **Desenvolvedor Back-end Java** | Brasília - DF
