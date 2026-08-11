@@ -72,10 +72,3 @@ Simulação de operações bancárias em Java aplicando POO.
 Busco minha primeira oportunidade como Desenvolvedor Back-end (Estágio), onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para o desenvolvimento de soluções de qualidade.
 
 ---
-
-## GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=isaque-collab&show_icons=true&theme=default" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaque-collab&layout=compact" height="165"/>
-</p>
