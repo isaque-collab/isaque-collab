@@ -2,9 +2,6 @@
 
 Estudante de **Engenharia de Software** na Universidade Católica de Brasília (UCB), com foco em **desenvolvimento back-end Java**.
 
-Brasília — DF
-Em busca da primeira oportunidade de estágio em desenvolvimento de software
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/isaquecostadacunha)
 
 ---
